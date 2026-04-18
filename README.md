@@ -1,2 +1,4 @@
-# ruwiki-datasets
-Russian Wikipedia neutral datasets with GT for clustering algoritms
+# wikipedia dataset parser
+Python parser for parsing wikipedia.com
+
+**Allan please add details**

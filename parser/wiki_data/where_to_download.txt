@@ -1,0 +1,19 @@
+https://dumps.wikimedia.org
+
+Добавляйте приписку своего подразделения википедии к ссылке и заходите в дампы википедии
+Для .ru региона будет действительна такая ссылка:
+
+https://dumps.wikimedia.org/ruwiki
+
+Вам будут нужны файлы ruwiki-latest-categorylinks.sql.gz (предварительно распакуйте) и ruwiki-latest-pages-articles.xml.bz2
+
+
+=============================
+ENG
+
+Add to the end prefix of your country and you can download dumps
+For english wiki this link is valid:
+
+https://dumps.wikimedia.org/enwiki
+
+You need these files: enwiki-latest-categorylinks.sql.gz (unzip first) and enwiki-latest-pages-articles.xml.bz2

@@ -1,0 +1,3 @@
+Это файл для чёрного списка СТРАНИЦ. Эти страницы не будут включены в датасет
+
+This is file for blacklist PAGES. These pages will not include in dataset
